@@ -74,10 +74,9 @@
       padding: 50px;
   }
 
-  .author{
-   margin-left: 75%;
-   
-  }
+ .author{
+   text-align: right;
+ }
 
   .statia{
     margin-left: 25%;
